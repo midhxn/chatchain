@@ -1,5 +1,5 @@
 ## ChatChain
 
-Chatting Application With rich features on Blockchain
+Chatting Application With rich features on Eth Blockchain
 
 
